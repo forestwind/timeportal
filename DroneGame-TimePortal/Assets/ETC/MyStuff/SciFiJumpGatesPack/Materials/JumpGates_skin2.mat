@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: JumpGates_skin2
+  m_Shader: {fileID: 4800000, guid: 1b47cab936037574684f27701948496d, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_CustomRenderQueue: -1
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 2800000, guid: 207bab8a3dbf8b64b98cac0e07885ae1, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: .25}
+      data:
+        first:
+          name: _BumpMap
+        second:
+          m_Texture: {fileID: 2800000, guid: ffccdbb6bb49caa47ab6ab0f16542c8d, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: .25}
+      data:
+        first:
+          name: _EmissionMap
+        second:
+          m_Texture: {fileID: 2800000, guid: 35775c033188bbe49b0cac1d4b3f02f0, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: .25}
+      data:
+        first:
+          name: _SpecularMap
+        second:
+          m_Texture: {fileID: 2800000, guid: 2347ce3703da7d44ebed294153dd89fc, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: .25}
+    m_Floats:
+      data:
+        first:
+          name: _Shininess
+        second: .0744868815
+      data:
+        first:
+          name: _SpecIntensity
+        second: .400000006
+    m_Colors:
+      data:
+        first:
+          name: _Color
+        second: {r: .800000012, g: .800000012, b: .800000012, a: 1}
+      data:
+        first:
+          name: _MainColor
+        second: {r: .552941203, g: .552941203, b: .552941203, a: 1}

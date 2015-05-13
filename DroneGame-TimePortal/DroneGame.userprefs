@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GameUI.cs">
+    <Files>
+      <File FileName="Assets\Scripts\MainMenu\MainMenuManager.cs" Line="50" Column="24" />
+      <File FileName="Assets\Scripts\0Stage\lightControl.cs" Line="36" Column="24" />
+      <File FileName="Assets\ETC\FORGE3D\Sci-Fi Effects\Code\F3DBeam.cs" Line="133" Column="14" />
+      <File FileName="Assets\ETC\ProgressBar\Script\ProgressBarBehaviour.cs" Line="111" Column="84" />
+      <File FileName="Assets\Scripts\1Stage\FireCtrl.cs" Line="14" Column="26" />
+      <File FileName="Assets\Scripts\GameUI.cs" Line="111" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
